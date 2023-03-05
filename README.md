@@ -1,2 +1,2 @@
-# Trabalhos-Pr-ticos
+# Trabalhos-Praticos
 Atividades avaliativas de AED1
