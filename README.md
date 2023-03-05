@@ -4,4 +4,4 @@
 
 -O único requisito que não foi cumprido no código entregue é a limitação dos comandos 'U', 'D', 'L' e 'R'. O programa aceita qualquer coisa que for escrita mas só contabilizará estas 4 letras restritamente maiúsculas.
 
--Link para vídeo: https://drive.google.com/file/d/19K86epeVJTIBrpGkkLd9kWVuflv2QoBg/view?usp=share_link
+-Link para vídeo: 
